@@ -1,0 +1,2 @@
+BIOS - Basic Input/Output System
+FAT - File Allocation Table
